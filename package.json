@@ -1,0 +1,23 @@
+{
+  "name": "json-server-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shagun0061/json-server-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shagun0061/json-server-api/issues"
+  },
+  "homepage": "https://github.com/shagun0061/json-server-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}

@@ -1,34 +1,71 @@
 {
-     "cars": [
-       {
-         "id": 1,
-         "brand": "Tata",
-         "year": 2019,
-         "type": "Manual",
-         "kms": 10000,
-         "Description": "Tata Altroz with all original documents",
-         "Price": 500000
-       },
-       {
-         "id": 2,
-         "brand": "Tata",
-         "type": "AMT",
-         "year": 2017,
-         "kms": 8000,
-         "Description": "Tata Nexon with all original documents",
-         "Price": 800000
-       }
-     ],
-     "wishlisted_cars": [
-       {
-         "id": 1,
-         "brand": "Tata",
-         "year": 2019,
-         "type": "Manual",
-         "kms": 10000,
-         "Description": "Tata Altroz with all original documents",
-         "Price": 500000
-       }
-     ]
-   }
-   
+  "books": [
+    {
+      "id": 1,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2021",
+      "publisher": "Bloomsbury",
+      "cost": 1299,
+      "borrowed": false
+    },
+    {
+      "id": 2,
+      "image_url": "https://m.media-amazon.com/images/I/5165He67NEL.jpg",
+      "book_name": "Harry Potter and the Philosopher's Stone",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2019",
+      "publisher": "Bloomsbury",
+      "cost": 1200,
+      "borrowed": false
+    },
+    {
+      "id": 3,
+      "book_name": "Norwegian Wood",
+      "image_url": "http://t1.gstatic.com/images?q=tbn:ANd9GcQvJJDi2mzwg9v_PlmKYL31gXIz0kvAObJak7DVFPcD_mJTIyec",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2019",
+      "publisher": "Bloomsbury",
+      "cost": 1200,
+      "borrowed": false
+    },
+    {
+      "id": 4,
+      "book_name": "Norwegian Wood",
+      "image_url": "http://t0.gstatic.com/images?q=tbn:ANd9GcRHFU_j93PPsbQGqoaZJnHH6-Emk_sIxG823SkoRTL0nvdEP41f",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2019",
+      "publisher": "Bloomsbury",
+      "cost": 1200,
+      "borrowed": false
+    },
+    {
+      "id": 5,
+      "book_name": "Norwegian Wood",
+      "image_url": "http://t3.gstatic.com/images?q=tbn:ANd9GcQBMNA8A19vQpNY4bkgadsLhiRUFqBKwKAA6ANrw8VEtOiPrYQJ",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2019",
+      "publisher": "Bloomsbury",
+      "cost": 1200,
+      "borrowed": false
+    },
+    {
+      "id": 6,
+
+      "book_name": "Norwegian Wood",
+      "image_url": "http://t0.gstatic.com/images?q=tbn:ANd9GcTBQZSg-b2LFkLlt9fWndS1w8SONabDZBHf0dtdb3-bqcuKxduL",
+      "author": "J. K. Rowling",
+      "genre": "fiction",
+      "edition": "2019",
+      "publisher": "Bloomsbury",
+      "cost": 1200,
+      "borrowed": false
+    }
+  ]
+}
